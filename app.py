@@ -107,7 +107,7 @@ if not df_ranked.empty:
 st.markdown("""
 **How to use:** Upload your own CSV (same columns as the sample), tweak weights, filter by city/price, and download the ranked list.
 """)
-=======
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
