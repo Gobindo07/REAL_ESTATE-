@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+streamlit==1.37.1
+pandas==2.3.1
+numpy==2.3.2
+scikit-learn==1.7.1
+Pillow==10.4.0
+=======
+streamlit==1.37.1
+pandas==2.3.1
+numpy==2.3.2
+scikit-learn==1.7.1
+Pillow==10.4.0
+>>>>>>> 3fb53c5adae07fd686c958b64b0aab79f537fb01
